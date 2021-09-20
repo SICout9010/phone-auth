@@ -1,0 +1,6 @@
+name: PhoneAuth
+version: '${version}'
+main: sicout9010.spigot.phoneauth.PhoneAuth
+api-version: 1.16
+authors: [ SICout9010 ]
+description: Minecraft Plugin that let you login from your Phone!
